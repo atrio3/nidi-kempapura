@@ -7,7 +7,7 @@ const Home = () => {
         <div className='home'>
             <Sidebar />
             <div className="homeContainer">
-                <h1>Sub-Admin (KEMPAPURA) </h1>            
+                <h1>KEMPAPURA Branch </h1>            
             </div>
            
         </div>
